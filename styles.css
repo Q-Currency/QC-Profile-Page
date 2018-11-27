@@ -1,0 +1,28 @@
+
+
+img{
+	border-radius:45px;
+}
+
+.extra_margin{
+	margin-top: 20px;
+}
+
+.btn{
+	margin-top: 2px;
+	padding: 5px;
+	font-size: 18px;
+	margin-left: 15px;
+}
+
+p{	margin-top: 5px;
+}
+
+ul{
+	margin-top: 1.5px;
+}
+
+li{
+	margin-top: 10px;
+	margin-left: 60px;
+}
